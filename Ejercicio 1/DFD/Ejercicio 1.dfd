@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+90
+'Ingrese el precio del articulo deseado, y luego ingrese la cantidad que lleva el cliente'
+5
+1
+21
+precioArt,cantidadCli
+6
+1
+8
+cantPago
+23
+precioArt * cantidadCli
+4
+1
+55
+'La cantidad a pagar por el cliente es de: $', cantPago
+1
