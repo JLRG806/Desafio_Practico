@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'Ingrese 4 numeros'
+5
+1
+19
+num1,num2,num3,num4
+6
+2
+3
+sum
+9
+num1+num2
+4
+prod
+9
+num3*num4
+4
+1
+35
+'La suma del num1 y num 2 es: ',sum
+4
+1
+38
+'El producto de num3 y num4 es: ',prod
+1
